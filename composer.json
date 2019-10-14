@@ -1,0 +1,31 @@
+{
+    "name": "poolbang/captcha",
+	"type": "package",
+  "keywords": [
+    "swoft Captcha",
+    "Captcha"
+  ],
+  "description": "captcha for swoft",
+	"homepage": "https://github.com/poolbang/captcha",
+  "license": "MIT",
+  "minimum-stability": "beta",
+    "authors": [
+        {
+            "name": "webphplove",
+            "email": "1346233126@qq.com"
+        }
+    ],
+	"require": {
+		"php": "^7.2",
+		"ext-imagick": "*",
+		"swoft/stdlib": "~2.0.0"
+	},
+  "autoload": {
+    "psr-4": {
+      "Swoft\\Captcha\\": "captcha/src/"
+    },
+    "files": [
+      "app/Helper/Functions.php"
+    ]
+  },
+}
