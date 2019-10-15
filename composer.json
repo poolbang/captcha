@@ -1,5 +1,5 @@
 {
-    "name": "poolbang/captcha",
+  "name": "poolbang/captcha",
 	"type": "package",
   "keywords": [
     "swoft Captcha",
@@ -23,9 +23,6 @@
   "autoload": {
     "psr-4": {
       "Swoft\\Captcha\\": "captcha/src/"
-    },
-    "files": [
-      "app/Helper/Functions.php"
-    ]
-  },
+    }
+  }
 }
