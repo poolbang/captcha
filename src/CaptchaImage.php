@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Swoft\Captcha;
+namespace Poolbang\Captcha;
 
 use Intervention\Image\Image;
 

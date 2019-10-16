@@ -1,6 +1,6 @@
 <?php
 
-namespace Swoft\Captcha;
+namespace Poolbang\Captcha;
 
 
 /**

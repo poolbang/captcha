@@ -6,7 +6,7 @@
     "Captcha"
   ],
   "description": "captcha for swoft",
-	"homepage": "https://github.com/poolbang/captcha",
+  "homepage": "https://github.com/poolbang/captcha",
   "license": "MIT",
   "minimum-stability": "beta",
     "authors": [
@@ -22,7 +22,7 @@
 	},
   "autoload": {
     "psr-4": {
-      "Swoft\\Captcha\\": "captcha/src/"
+      "Poolbang\\Captcha\\": "src/"
     }
   }
 }

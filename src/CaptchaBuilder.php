@@ -1,6 +1,6 @@
 <?php
 
-namespace Swoft\Captcha;
+namespace Poolbang\Captcha;
 
 use Swoft\Bean\Annotation\Mapping\Bean;
 use Intervention\Image\Image;
